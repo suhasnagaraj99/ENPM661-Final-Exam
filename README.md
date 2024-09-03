@@ -29,12 +29,18 @@ Follow these steps to run the code:
 ```bash
 python3 suhas99_BiAstar.py
 ```
+
+![Video GIF](https://github.com/suhasnagaraj99/ENPM661-Final-Exam/blob/main/biastar.gif)
+
 2. The script will display an animation showing the node exploration and the optimal path found by the Bi-Directional A* algorithm.
 3. Execute the suhas99_PotentialField.py file to get the the Potential Field algorithm solution; run the following command in your terminal:
 
 ```bash
 python3 suhas99_PotentialField.py
 ```
+
+![alt text](https://github.com/suhasnagaraj99/ENPM661-Final-Exam/blob/main/pf.png?raw=false)
+
 
 ## Additional information 
 - Please refer to the solution for more information - [Exam Solution](https://github.com/suhasnagaraj99/ENPM661-Final-Exam/blob/main/suhas99_final_exam.pdf)
